@@ -21,7 +21,7 @@
 
     > [在一圆周上任意取三个点构成锐角三角形的概率是多少?](https://www.zybang.com/question/7ad30f46d6eebb125b6421479d24bdc3.html) - 作业帮 
     
-    > [更好地解释](https://zhidao.baidu.com/question/2053321240317820467.html)
+    > [更好的解释](https://zhidao.baidu.com/question/2053321240317820467.html)
 
 - 使用积分计算该概率
 
